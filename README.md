@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yahis24
-- 👀 I’m interested in learn Phyton, Data Science, UX and more
-- 🌱 I’m currently learning programming languages.
+- 👀 HTML, CSS, SASS, LESS, BOOTSTRAP, JAVASCRIPT, REACT.
+- 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on tech enterprises.
 
 
