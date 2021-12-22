@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yahis24
-- 👀 HTML, CSS, SASS, LESS, BOOTSTRAP, JAVASCRIPT, REACT, FUTURE AWS PRACTICIONER.
+- 👀 HTML, CSS, SASS, LESS, BOOTSTRAP, JAVASCRIPT, REACT, PYTHON FUTURE AWS PRACTICIONER.
 - 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on tech enterprises.
 
